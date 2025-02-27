@@ -1,1 +1,1 @@
-# sbpm-school
+# SBMP
