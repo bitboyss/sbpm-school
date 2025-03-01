@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: scroll;
+}
+::-webkit-scrollbar {
+    display: none; /* Hide the scrollbar */
+}
+.top-bar{
+    background: red;
+    width: 100%;
+    height: 50px;
+}
+.school-header-menu{
+    background: blue;
+    width: 100%;
+    height: 100px;
+}
